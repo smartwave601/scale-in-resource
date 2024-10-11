@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"hashedUserId":{"$numberInt":"1"}},"name":"hashedUserId_1","background":true,"unique":true}],"uuid":"0a1a1701ff52426d9d351d1d602f52ce","collectionName":"affiliatemappings","type":"collection"}
